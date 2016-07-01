@@ -12,3 +12,5 @@ in qp2qp You always find the virtual pen in quite halfway between the index fing
 *two fingers controls the virtual pen to start drawing
 
 virtual pen,screen movement , zooming and many modifications are developed by tarek mahmoud samy and sketching tool is a modified version of mrdoob harmony
+
+tarek.mahmoud.samy@hotmail.com
