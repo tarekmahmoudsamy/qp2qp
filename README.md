@@ -18,3 +18,4 @@ qp2qp was converted to android app using phonegap and can be foud on google play
 https://play.google.com/store/apps/details?id=com.qp2qp&hl=en
 
 tarek.mahmoud.samy@hotmail.com
+http://qp2qp.com
