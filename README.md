@@ -14,4 +14,7 @@ in qp2qp You always find the virtual pen in quite halfway between the index fing
 
 virtual pen,screen movement , zooming and many modifications are developed by tarek mahmoud samy and sketching tool is a modified version of mrdoob harmony
 
+qp2qp was converted to android app using phonegap and can be foud on google play 
+https://play.google.com/store/apps/details?id=com.qp2qp&hl=en
+
 tarek.mahmoud.samy@hotmail.com
