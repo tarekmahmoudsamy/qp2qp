@@ -11,4 +11,4 @@ in qp2qp You always find the virtual pen in quite halfway between the index fing
 *one finger moves the screen to draw on a larger area than the smartphone screen
 *two fingers controls the virtual pen to start drawing
 
-virtual pen,screen movement , zooming and many modifications are developed by qp2qp team and sketching tool is a modified version of mrdoob harmony
+virtual pen,screen movement , zooming and many modifications are developed by tarek mahmoud samy and sketching tool is a modified version of mrdoob harmony
